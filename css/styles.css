@@ -536,6 +536,10 @@ width: calc((100% - 72px) / 4);
 
 
 /* futer soc */
+.footer .container { 
+    display: flex;
+        align-items: baseline;
+}
 
 .footer-soc {
     flex-direction: column;
